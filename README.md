@@ -23,14 +23,3 @@ El repositorio contiene los siguientes archivos: <br>
 <br>
 Para iniciar el Asistente Virtual (en Terminal MAC): <br>
 python3 app_streamlit.py <br>
-
-
-app_KuHmar/
-│
-├── assets/
-│   ├── images/
-│   │   └── logo.png
-│   └── css/
-│       └── style.css
-│
-└── app_streamlit.py
