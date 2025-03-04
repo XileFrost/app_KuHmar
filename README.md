@@ -1,25 +1,25 @@
-## **Proyecto de Data Engineering IA - LLM App. Asistente Virtual de telefonía móvil**
-
-El repositorio contiene los siguientes archivos: 
-
-**app_KuHmar**
-| / __pycache__
-  | test_api.cpython-311-pytest-7.4.0.pyc
-| .env
-| .gitignore
-| apimodel.py
-| app_kuhmar.dockerignore
-| app_streamlit.py
-| /data
-  | kuhmarmarzo25.csv
-  | Mobiles Dataset (2025).csv
-| Docker_app_KuHmar.ipynb
-| dockerfile
-| Proyecto_app_KuHmar.ipynb
-| rds-combined-ca-bundle.pem
-| requirements.txt
-| test_api.py
-| us-east-2-bundle.pem
-
-Para iniciar el Asistente Virtual (en Terminal MAC):
-python3 app_streamlit.py
+## **Proyecto de Data Engineering IA - LLM App. Asistente Virtual de telefonía móvil** <br>
+<br>
+El repositorio contiene los siguientes archivos: <br>
+<br>
+**app_KuHmar** <br>
+| / __pycache__ <br>
+  | test_api.cpython-311-pytest-7.4.0.pyc <br>
+| .env <br>
+| .gitignore <br>
+| apimodel.py <br>
+| app_kuhmar.dockerignore <br>
+| app_streamlit.py <br>
+| /data <br>
+  | kuhmarmarzo25.csv <br>
+  | Mobiles Dataset (2025).csv <br>
+| Docker_app_KuHmar.ipynb <br>
+| dockerfile <br>
+| Proyecto_app_KuHmar.ipynb <br>
+| rds-combined-ca-bundle.pem <br>
+| requirements.txt <br>
+| test_api.py <br>
+| us-east-2-bundle.pem <br>
+<br>
+Para iniciar el Asistente Virtual (en Terminal MAC): <br>
+python3 app_streamlit.py <br>
