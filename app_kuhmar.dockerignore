@@ -1,0 +1,40 @@
+# Entornos virtuales y entornos de desarrollo
+venv/
+env/
+.venv/
+.env*
+
+# Archivos de Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Archivos de tests y desarrollo
+test_kuhmarapp.py
+coverage.xml
+.pytest_cache/
+*.log
+
+# Archivos del sistema y editores
+.git/
+.gitignore
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Archivos de configuración sensible
+*.env
+*.env*
+!database-kuhmar.env.prod 
+*.secret
+
+# Documentación
+docs/
+*.md
+*.ipynb
+
+# Dockerfiles y compose (opcional)
+Dockerfile
+docker-compose.yml
