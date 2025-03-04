@@ -21,5 +21,5 @@ El repositorio contiene los siguientes archivos: <br>
 | test_api.py <br>
 | us-east-2-bundle.pem <br>
 <br>
-Para iniciar el Asistente Virtual (en Terminal MAC): <br>
-python3 app_streamlit.py <br>
+Para iniciar el Asistente Virtual (en Terminal): <br>
+streamlit run app_streamlit.py
